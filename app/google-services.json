@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "444779070040",
+    "firebase_url": "https://wusafee.firebaseio.com",
+    "project_id": "wusafee",
+    "storage_bucket": "wusafee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444779070040:android:a09de53c176e98fe",
+        "android_client_info": {
+          "package_name": "com.wusafe.wusafee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444779070040-oj047sttsh65f9vl2t3ofs4re47pqeca.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD2OJElJG82hlOoMOz_1A6UC5xW2s_Q5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "444779070040-oj047sttsh65f9vl2t3ofs4re47pqeca.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
